@@ -1,0 +1,9 @@
+{
+    "todos":[
+        {"id":1, "todoText": "Do 2 DSA question", "completed": false},
+        {"id":2, "todoText": "complete assignment", "completed": false},
+        {"id":3, "todoText": "read 10 questions from react github repo", "completed": false},
+        {"id":4, "todoText": "Do exercise atleast 1 hour", "completed": false},
+        {"id":5, "todoText": "complete signup functionality", "completed": false}
+    ]
+  }
